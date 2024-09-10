@@ -67,11 +67,3 @@ Para mais informações, entre em contato através desse repo!
 
 Dados de Exemplo: Dados de exemplo utilizados para testes.
 Scripts de Teste: Scripts para validação e testes do sistema.
-
-### Notas
-
-1. **Substitua** `https://github.com/usuario/projeto-controle-energia.git` pelo URL real do seu repositório GitHub.
-2. **Atualize** os nomes dos arquivos e pastas conforme sua estrutura real.
-3. **Adapte** o texto para refletir exatamente as características do seu projeto e os requisitos específicos.
-
-Se precisar de ajustes ou tiver mais perguntas, estou à disposição!
