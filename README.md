@@ -1,8 +1,8 @@
-# Projeto de Controle de Energia - Residencial Jardim das Flores
+# Projeto de Controle de Energia Condominial
 
 ## Descrição do Projeto
 
-Este projeto visa implementar um sistema de controle e monitoramento de consumo de energia elétrica para o condomínio "Residencial Jardim das Flores". Utilizando tecnologias de IoT e Big Data, o sistema permite o controle remoto de equipamentos elétricos e fornece uma visualização detalhada do consumo de energia através de um dashboard interativo.
+Este projeto visa implementar um sistema de controle e monitoramento de consumo de energia elétrica para um condomínio residencial. Utilizando tecnologias de IoT e Big Data, o sistema permite o controle remoto de equipamentos elétricos e fornece uma visualização detalhada do consumo de energia através de um dashboard interativo.
 
 ## Funcionalidades
 
@@ -40,30 +40,33 @@ Este projeto visa implementar um sistema de controle e monitoramento de consumo 
 
 Execute o Dashboard:
 
-    ```bash
-    python codigo/dashboard.py
-    ```
+```bash
+python codigo/dashboard.py
+```
 
 4. **Acesse o Dashboard: Abra o navegador e vá para <http://localhost:8050> para visualizar o dashboard.**
 
 Exemplo de Uso
 Controle de Ar Condicionado: Acesse o dashboard para ligar ou desligar o ar condicionado remotamente.
 Monitoramento de Luzes: Verifique o consumo de energia das luzes em diferentes áreas do condomínio.
-Documentação Adicional
+
+### Documentação Adicional
+
 Diagrama de Arquitetura: Visualize a estrutura do sistema e a interação entre componentes.
 Comentários do Código: Detalhes sobre a implementação e funcionalidades do código.
-Licença
+
+### Licença
+
 Este projeto está licenciado sob a MIT License. Veja o arquivo LICENSE para mais detalhes.
 
-Contato
-Para mais informações, entre em contato com Seu Nome.
+### Contato
 
-Links Adicionais
-Carta de Autorização: Documento de autorização para uso de imagens e dados.
+Para mais informações, entre em contato através desse repo!
+
+### Links Adicionais
+
 Dados de Exemplo: Dados de exemplo utilizados para testes.
 Scripts de Teste: Scripts para validação e testes do sistema.
-markdown
-Copy code
 
 ### Notas
 
