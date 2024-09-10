@@ -23,8 +23,8 @@ Este projeto visa implementar um sistema de controle e monitoramento de consumo 
 1. **Clone o Repositório:**
 
    ```bash
-   git clone https://github.com/usuario/projeto-controle-energia.git
-   cd projeto-controle-energia
+   git clone https://github.com/guipalazzo87/sistema-estacio
+   cd sistema-estacio
 
    ```
 
